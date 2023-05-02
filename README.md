@@ -1,7 +1,7 @@
 # AXIT
 Design 2 Using Bootstrap
 
-- [live demo](https://mohamdyahia.github.io/AXIT/)
+- [live demo](https://0xyahia.github.io/AXIT/)
 - [code](https://github.com/MohamedYahia831/AXIT/blob/main/index.html)
 
 <p align="center">
